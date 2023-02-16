@@ -66,4 +66,4 @@ The following is the list of supported scopes:
 * `router`
 * `service-worker`
 * `upgrade`
-* `zone.js`
+* `zone.js` 
